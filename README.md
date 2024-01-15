@@ -30,4 +30,4 @@ Note:
 You would have to Force terminate pelorus instance using following command if you are stuck with terminating instance/namespace
 > oc patch pelorus/pelorus-instance --type=merge -p '{\"metadata\": {\"finalizers\":null}}'
 
-Updated: Dec 20, 2023 @ 2.37 pm
+Updated: Jan 15, 2023 @ 10.52 am
